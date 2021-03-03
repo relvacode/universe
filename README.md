@@ -1,13 +1,14 @@
 # Universe
 
-A realistic universe simulation game engine written in Go WebAssembly
+A realistic universe simulation game engine for the browser written in Go WebAssembly
 
-[Play](https://universe.relva.co.uk/index.html)
+**[Play](https://universe.relva.co.uk/index.html)**
 
 
 ### Controls
 
-| --- | --- |
+| Input | Description |
+| ------ | ------ |
 | `space` | Pause and resume the simulation |
 | `r` | Reset the simulation |
 | `v` | Reset all velocities to 0 |
